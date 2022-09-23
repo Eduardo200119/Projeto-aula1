@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //OLÁ ISTO É O EDUARDO
+        // BRANCH 1
+        // BOA TARDE
 
     }
 }
