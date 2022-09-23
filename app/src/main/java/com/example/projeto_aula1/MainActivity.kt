@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         //OLÁ ISTO É A VOZ, ISTO É UM TESTE
         // UPDATE1
+        //DIAA
     }
 }
