@@ -8,8 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //OLÁ ISTO É A VOZ, ISTO É UM TESTE
-        // UPDATE1
-        //DIAA
+        //OLÁ ISTO É O EDUARDO
+
     }
 }
